@@ -1,0 +1,23 @@
+{
+  "name": "healthy-mama-practice",
+  "version": "0.0.1",
+  "description": "практика по вёрстке",
+  "devDependencies": {
+    "autoprefixer": "9.5.x",
+    "browser-sync": "2.26.x",
+    "del": "^4.1.1",
+    "gulp": "4.0.x",
+    "gulp-plumber": "1.2.x",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "2.6.x",
+    "gulp-sass": "4.0.x",
+    "gulp-postcss": "8.0.x",
+    "gulp-csso": "^3.0.1",
+    "gulp-posthtml": "^3.0.4",
+    "posthtml-include": "^1.2.0"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp start"
+  }
+}
